@@ -5,4 +5,5 @@ Ce répertoire contient les projets du rover, les projets sont trié par version
 | Compétition | Surnom du rover | Nom                                                |
 |-------------|-----------------|----------------------------------------------------|
 | CIRC 2024   | T_REX           | Teleoperated Rover for Extraterrestrial Xploration |
-| CIRC 2025   | TODO            |                                                    |
+| CIRC 2025   | NONE            |                                                    |
+| CIRC 2026   | Wovus           | Rovus but kawaii                                   |
