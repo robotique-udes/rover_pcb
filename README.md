@@ -1,9 +1,14 @@
 # PCB
 
-Ce répertoire contient les projets du rover, les projets sont trié par version du rover:
+### How to navigate
+This repository contains all the rover PCBs. Projects are sorted by year:
 
-| Compétition | Surnom du rover | Nom                                                |
+| Year | Surnom du rover | Nom                                                |
 |-------------|-----------------|----------------------------------------------------|
-| CIRC 2024   | T_REX           | Teleoperated Rover for Extraterrestrial Xploration |
-| CIRC 2025   | NONE            |                                                    |
-| CIRC 2026   | Wovus           | Rovus but kawaii                                   |
+| 2024        | T_REX           | Teleoperated Rover for Extraterrestrial Xploration |
+| 2025        | NONE            |                                                    |
+| 2026        | Wovus           | Rovus but kawaii                                   |
+| 2027        | TBD             |                                                    |
+
+### Documentation
+All information about the repository rules and PCB specifications can be found in the [rover documentation](https://github.com/robotique-udes/rover_documentation).
